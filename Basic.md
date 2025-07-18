@@ -1,4 +1,4 @@
-
+Made by : Giant20131
 
 The code is a simple Python program designed to generate and display the multiplication table for a user-specified number. It serves as an introductory example for understanding loops and basic input/output operations in Python.
 
