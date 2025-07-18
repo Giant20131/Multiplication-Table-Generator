@@ -1,5 +1,5 @@
 # Description of advanced.py
-Made by : Giant20131
+Made by : Giant20131.
 This code, is designed to generate and audibly present the multiplication table for a number provided by the user. It leverages the `pyttsx3` library, which is a text-to-speech conversion library in Python, allowing the program to speak out the results of each multiplication step.
 
 ## How It Works
